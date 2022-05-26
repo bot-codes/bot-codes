@@ -4,5 +4,5 @@ Hallo Semua 👋 Perkenalkan
 Nama Aku: WirdGates
 Umur: 16years
 Hobby: Programming & Basketball
-Learning: Javascript php c++ some c#
+Learning: Javascript php c++ sedikit c#
 From: Indonesia
