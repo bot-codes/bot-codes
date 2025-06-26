@@ -2,7 +2,7 @@
 
 Hi everyone 👋 Let me introduce myself, 
 
-my name is WidGates
+my name is WirdGates
 
 🥇 Main Skills:
 
