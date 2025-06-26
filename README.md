@@ -4,9 +4,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,androidstudio,visualstudio,)](https://skillicons.dev)
 
-Hallo Semua 👋 Perkenalkan 
-Nama Aku: WirdGates
-Umur: 16years
-Hobby: Programming & Basketball
-Learning: Javascript php c++ sedikit c#
-From: Indonesia
+Hi everyone 👋 Let me introduce myself, my name is WidGets
