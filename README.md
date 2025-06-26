@@ -1,10 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Bot-Codes&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
-# Hi everyone 👋 
-
-Let me introduce myself, 
-
-my name is WirdGates
+# Hi everyone Let me introduce myself, 
+# my name is WirdGates 👋 
 
 🥇 Main Skills:
 
