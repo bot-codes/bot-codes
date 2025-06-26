@@ -2,7 +2,7 @@
 
 🥇 Main Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,androidstudio,visualstudio,)](https://skillicons.dev)
 
 Hallo Semua 👋 Perkenalkan 
 Nama Aku: WirdGates
